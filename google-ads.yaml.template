@@ -1,0 +1,10 @@
+# You do not need to edit this manually in v3.
+# The app's Setup tab can create config/google-ads.yaml for you.
+
+developer_token: "YOUR_DEVELOPER_TOKEN"
+client_id: "YOUR_OAUTH_CLIENT_ID"
+client_secret: "YOUR_OAUTH_CLIENT_SECRET"
+refresh_token: "YOUR_REFRESH_TOKEN"
+# login_customer_id is optional. Use it if you access client accounts through a manager account.
+# login_customer_id: "YOUR_MANAGER_ACCOUNT_ID_NO_DASHES"
+use_proto_plus: true
